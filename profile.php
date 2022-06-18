@@ -13,7 +13,7 @@ if(!isset($_SESSION["uname"]))
 <html>
 <body>
    <H1> Hi, <?php echo $_SESSION["uname"]; ?> <br> </H1>
-   <H2> Click here to logout <a href="../Control/logout.php"> Logout </a> </H2> <br> <br> <br>
+   <H2> Click here for logout <a href="../Control/logout.php"> Logout </a> </H2> <br> <br> <br>
 </body>
 </html>
 
