@@ -8,7 +8,7 @@ session_start();
 
 if(!isset($_SESSION["uname"]))
 {
-    header("location:../Model/adminlogin.php");
+    header("location:../Model/moderatorlogin.php");
 }
 ?>
 

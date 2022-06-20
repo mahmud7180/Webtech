@@ -48,18 +48,10 @@
         "confirmpassword": "11223344"
     },
     {
-        "name": "Sifat Rahman",
-        "uname": "sifat123",
-        "gender": "Male",
-        "email": "sifat@gmail.com",
-        "password": "11223344",
-        "confirmpassword": "11223344"
-    },
-    {
         "name": "Mahmud Hasan",
-        "uname": "mahmud3012",
+        "uname": "mahmud1234",
         "gender": "Male",
-        "email": "mahmud.hasan9776@gmail.con",
+        "email": "hasan77@gmail.com",
         "password": "11223344",
         "confirmpassword": "11223344"
     }

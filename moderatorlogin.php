@@ -27,7 +27,7 @@ include ("../Control/logincheck.php");
 <tr>
 <td> <input type="submit" value="Submit" name="submit"> 
 </td>
-<td> <a href="../Model/Changepassword.php"> Change Password? </a> </td> </tr>
+<td> <a href="../Model/changepassword.php"> Change Password? </a> </td> </tr>
 <td> Don't have an account? <a href="../Model/registration.php"> Register </a> </td> </tr>
 <tr> <td> <br> <br> <br> <br> </td> </tr>
 </table>

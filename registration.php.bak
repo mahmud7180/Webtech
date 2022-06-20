@@ -7,7 +7,7 @@ include "../Control/regcheck.php"
 <center>
 <body>
     <fieldset>
-    <legend> Register Your Moderator Account </legend> 
+    <legend> Register Your Admin Account </legend> 
     
 <form action="" method="post" enctype="multipart/form-data">
 <table>
