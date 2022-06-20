@@ -17,7 +17,7 @@ if(isset($_POST["submit"]))
 
                     $_SESSION["uname"]=$_POST["uname"];
                     $_SESSION["password"]=$_POST["password"];
-                    header("location: ../Model/profile.php");
+                    header("location: ../View/profile.php");
                }     
      }
      

@@ -1,5 +1,5 @@
 <?php
-include ("../View/Header.php");
+include ("../Model/Header.php");
 include "../Control/regcheck.php"
 ?>
 
@@ -59,5 +59,5 @@ include "../Control/regcheck.php"
 </html>
 
 <?php
-include ("../View/Footer.php");
+include ("../Model/Footer.php");
 ?>

@@ -1,5 +1,5 @@
 <?php
-include ("../View/Header.php");
+include ("../Model/Header.php");
 ?>
 
 <html>
@@ -26,5 +26,5 @@ include ("../View/Header.php");
 </html>
 
 <?php
-include ("Footer.php");
+include ("../Model/Footer.php");
 ?>

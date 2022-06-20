@@ -1,0 +1,66 @@
+[
+    {
+        "name": "munim",
+        "uname": "munim123",
+        "gender": "Male",
+        "email": "munim123@gmail.com",
+        "password": "123456789",
+        "confirmpassword": "123456789"
+    },
+    {
+        "name": "munim",
+        "uname": "ahmed123",
+        "gender": "Male",
+        "email": "munim123@gmail.com",
+        "password": "123456789",
+        "confirmpassword": "123456789"
+    },
+    {
+        "name": "mahmud",
+        "uname": "mahmud",
+        "gender": "Male",
+        "email": "hasan@gmail.com",
+        "password": "112233",
+        "confirmpassword": "112233"
+    },
+    {
+        "name": "MAHMUD HASAN",
+        "uname": "mahmud",
+        "gender": "Male",
+        "email": "mahmud.hasan9776@gmail.com",
+        "password": "pracchad",
+        "confirmpassword": "pracchad"
+    },
+    {
+        "name": "MAHMUD HASAN",
+        "uname": "mahmud123",
+        "gender": "Male",
+        "email": "hasanee@gmail.com",
+        "password": "11223344",
+        "confirmpassword": "11223344"
+    },
+    {
+        "name": "hasan",
+        "uname": "mahmud234",
+        "gender": "Male",
+        "email": "mahmud.hasaen@gmail.con",
+        "password": "11223344",
+        "confirmpassword": "11223344"
+    },
+    {
+        "name": "Sifat Rahman",
+        "uname": "sifat123",
+        "gender": "Male",
+        "email": "sifat@gmail.com",
+        "password": "11223344",
+        "confirmpassword": "11223344"
+    },
+    {
+        "name": "Mahmud Hasan",
+        "uname": "mahmud3012",
+        "gender": "Male",
+        "email": "mahmud.hasan9776@gmail.con",
+        "password": "11223344",
+        "confirmpassword": "11223344"
+    }
+]

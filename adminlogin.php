@@ -1,5 +1,5 @@
 <?php
-include ("../View/Header.php");
+include ("../Model/Header.php");
 include ("../Control/logincheck.php");
 ?>
 
@@ -27,8 +27,8 @@ include ("../Control/logincheck.php");
 <tr>
 <td> <input type="submit" value="Submit" name="submit"> 
 </td>
-<td> <a href="../View/forgotpassword.php"> Forget Password? </a> </td> </tr>
-<td> Don't have an account? <a href="../View/registration.php"> Register </a> </td> </tr>
+<td> <a href="../Model/changepassword.php"> Change Password? </a> </td> </tr>
+<td> Don't have an account? <a href="../Model/registration.php"> Register </a> </td> </tr>
 <tr> <td> <br> <br> <br> <br> </td> </tr>
 </table>
 </fieldset>
@@ -37,5 +37,5 @@ include ("../Control/logincheck.php");
 </html>
 
 <?php
-include ("../View/Footer.php");
+include ("../Model/Footer.php");
 ?>

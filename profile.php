@@ -1,4 +1,6 @@
-<?php include ("../View/Header.php"); ?>
+<?php 
+include ("../Model/Header.php"); 
+?>
 
 <?php
 session_start();
@@ -6,7 +8,7 @@ session_start();
 
 if(!isset($_SESSION["uname"]))
 {
-    header("location:../View/login.php");
+    header("location:../Model/adminlogin.php");
 }
 ?>
 
@@ -18,6 +20,6 @@ if(!isset($_SESSION["uname"]))
 </html>
 
 <?php
-include ("../View/Footer.php");
+include ("../Model/Footer.php");
 ?>
 
